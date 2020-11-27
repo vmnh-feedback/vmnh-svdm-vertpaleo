@@ -1,0 +1,37 @@
+Report for Institution Code VMNH, Resource svdm_vertpaleo
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 116
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen class:Actinopterygii institutioncode:VMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "122876" ; Times: 1
+	Query: "class:Amphibia locality:Piney Creek" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1171 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
