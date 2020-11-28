@@ -1,0 +1,54 @@
+Report for Institution Code VMNH, Resource svdm_vertpaleo
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Australia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "125099" ; Times: 2
+	Query: "Exostinus" ; Times: 1
+	Query: "125180" ; Times: 1
+	Query: "genus:Coniophis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 756 download events in this period)
+Total number of records downloaded: 859
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-03 ; Times: 4
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "genus:Chamops" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Coniophis" ; Times: 1
+	Query: "Leidyosuchus" ; Times: 1
+	Query: "Borealosuchus" ; Times: 1
+	Query: "genus:Odaxosaurus" ; Times: 1
+	Query: "Exostinus" ; Times: 1
+	Query: "fossa" ; Times: 1
+
+
+End of report.
