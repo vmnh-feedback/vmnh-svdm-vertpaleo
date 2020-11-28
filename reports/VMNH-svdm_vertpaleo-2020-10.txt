@@ -1,0 +1,37 @@
+Report for Institution Code VMNH, Resource svdm_vertpaleo
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 444
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-17 ; Times: 6
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vmnh Hadrosauridae" ; Times: 2
+	Query: "122944" ; Times: 1
+	Query: "vmnh" ; Times: 4
+	Query: "catalognumber:124639" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1521 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
